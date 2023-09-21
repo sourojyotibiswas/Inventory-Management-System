@@ -9,7 +9,7 @@ An inventory management system is a C language program that allows you to manage
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [License](#license)
-- [Found a Bug?](#Bug?)
+- [Found a Bug?](#contribute)
 
 ## Features
 
@@ -48,6 +48,7 @@ gcc main.c -o inventory
 ***Follow the on-screen instructions for login and using the inventory management system.***
 
 ## Usage
+
 - **Login**: When you run the program, you'll be prompted to enter a username and password. Use the default username and password (you can customize these) to access the system.
 
 - **Main Menu**: After successful login, you'll see the main menu with options to create, view, update, and delete products.
@@ -62,7 +63,7 @@ gcc main.c -o inventory
 
 - **Save Inventory**: Save the current inventory data to a file for future use.
 
-## Bug?
+## Contribute
 
 If you found an issue or would like to submit an improvement to this project, please submit an issue using the issue tab above. If you would like to submit a PR with a fix, reference the issue you created!
 
