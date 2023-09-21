@@ -9,7 +9,7 @@ An inventory management system is a C language program that allows you to manage
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [License](#license)
-- [Found a Bug?](#Found_a_bug)
+- [Found a Bug?](#Bug?)
 
 ## Features
 
@@ -62,7 +62,7 @@ gcc main.c -o inventory
 
 - **Save Inventory**: Save the current inventory data to a file for future use.
 
-## Found a Bug?
+## Bug?
 
 If you found an issue or would like to submit an improvement to this project, please submit an issue using the issue tab above. If you would like to submit a PR with a fix, reference the issue you created!
 
