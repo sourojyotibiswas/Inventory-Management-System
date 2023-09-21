@@ -63,6 +63,8 @@ gcc main.c -o inventory
 
 - **Save Inventory**: Save the current inventory data to a file for future use.
 
+- You can take add more details of a product to store in the inventory.
+
 ## Found a Bug
 
 If you found an issue or would like to submit an improvement to this project, please submit an issue using the issue tab above. If you would like to submit a PR with a fix, reference the issue you created!
