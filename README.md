@@ -71,4 +71,4 @@ If you found an issue or would like to submit an improvement to this project, pl
 
 ## License
 
-[Bsouro911](https://github.com/Bsouro911) - Sourojyoti Biswas
+[biswassourojyoti](https://github.com/sourojyotibiswas) - Sourojyoti Biswas
